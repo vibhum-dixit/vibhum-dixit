@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vibhum-dixit](https://github.com/vibhum-dixit)
 
-- 💬 Ask me about **I am pursuing a MCA from GLBITM.**
+- 💬 Ask me about ** Data Structure and Algorithms & Frontend Developement.**
 
 - 📫 How to reach me **ranjandixit88@gmail.com**
 
