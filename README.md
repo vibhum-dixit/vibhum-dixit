@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vibhum Ranjan Dixit</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+<p align="center">
+  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg">
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhum-dixit&label=Profile%20views&color=0e75b6&style=flat" alt="vibhum-dixit" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
