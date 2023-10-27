@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhum-dixit&label=Profile%20views&color=0e75b6&style=flat" alt="vibhum-dixit" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vibhum-dixit](https://github.com/vibhum-dixit)
 
