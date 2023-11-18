@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vibhum-dixit](https://github.com/vibhum-dixit)
 
-- 💬 Ask me about ** Data Structure and Algorithms & Frontend Developement.**
+- 💬 Ask me about ** Data Structure and Algorithms & Full Stack Developement.**
 
 - 📫 How to reach me **ranjandixit88@gmail.com**
 
